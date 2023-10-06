@@ -1,4 +1,3 @@
-
 # Truth Tabler/Proof Solver
 
 ## Example Output
